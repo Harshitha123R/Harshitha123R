@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Harshitha! 👋
 
-<!--
-**Harshitha123R/Harshitha123R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at Dayananda Sagar University.
 
-Here are some ideas to get you started:
+💻 Passionate about Artificial Intelligence, Machine Learning and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 Pursuing B.Tech in CSE (AI & ML).
+- 💡 Interested in Artificial Intelligence, Machine Learning and Problem Solving.
+- 🌱 Currently strengthening my Data Structures and Algorithms skills.
+- 💻 Practising coding problems using Java.
+- 🔍 Exploring Machine Learning and Explainable AI.
+- 🎯 Aspiring to build impactful real-world technology solutions.
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+- Java
+- Python
+- SQL
+
+**Web Technologies**
+- HTML
+- CSS
+
+**Areas of Interest**
+- Artificial Intelligence
+- Machine Learning
+- Explainable AI
+- Data Structures and Algorithms
+
+**Tools & Platforms**
+- Git
+- GitHub
+- Google Colab
+- Jupyter Notebook
+
+### 📚 Currently Learning
+
+- Data Structures and Algorithms using Java
+- Machine Learning Fundamentals
+- Software Development
+- Problem Solving
+
+### 🚀 Projects
+
+Check out my repositories to explore my academic and technical projects.
+
+### 📫 Connect With Me
+
+- GitHub: [Harshitha123R](https://github.com/Harshitha123R)
